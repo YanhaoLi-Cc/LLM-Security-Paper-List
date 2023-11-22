@@ -38,7 +38,6 @@
 
 1. [Jailbreak Chat](https://www.jailbreakchat.com/) 
 
-## Star History
 
 <a href="https://star-history.com/#Dream-Acc/LLM-Security-Paper-List&Date">
   <picture>
@@ -47,7 +46,3 @@
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Dream-Acc/LLM-Security-Paper-List&type=Date" />
   </picture>
 </a>
-
-
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Dream-Acc/LLM-Security-Paper-List&type=Date)](https://star-history.com/#Dream-Acc/LLM-Security-Paper-List&Date)
