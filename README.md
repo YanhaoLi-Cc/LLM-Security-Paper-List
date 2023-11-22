@@ -1,4 +1,4 @@
-# Paper List
+# LLM Security Paper List
 
 ## Survey
 
@@ -37,3 +37,7 @@
 ## Datasets
 
 1. [Jailbreak Chat](https://www.jailbreakchat.com/) 
+
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Dream-Acc/LLM-Security-Paper-List&type=Date)](https://star-history.com/#Dream-Acc/LLM-Security-Paper-List&Date)
