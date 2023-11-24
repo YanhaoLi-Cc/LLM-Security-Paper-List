@@ -33,6 +33,7 @@
 15. Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations [[Paper]](https://arxiv.org/abs/2310.06387)
 16. AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models [[Paper]](https://arxiv.org/abs/2310.04451)
 17. Open Sesame! Universal Black Box Jailbreaking of Large Language Models [[Paper]](https://arxiv.org/abs/2309.01446)
+18. SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks [[Paper]](https://aps.arxiv.org/abs/2310.03684)
 
 ## Datasets
 
