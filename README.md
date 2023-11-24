@@ -13,6 +13,7 @@
 ## Privacy Protection
 
 1. Large Language Models Can Be Good Privacy Protection Learners [[Paper]](https://arxiv.org/abs/2310.02469)
+2. ProPILE: Probing Privacy Leakage in Large Language Models [[Paper]](https://arxiv.org/abs/2307.01881)
 
 ## Jailbreak
 
