@@ -34,6 +34,7 @@
 16. AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models [[Paper]](https://arxiv.org/abs/2310.04451)
 17. Open Sesame! Universal Black Box Jailbreaking of Large Language Models [[Paper]](https://arxiv.org/abs/2309.01446)
 18. SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks [[Paper]](https://aps.arxiv.org/abs/2310.03684)
+19. Tricking LLMs into Disobedience: Understanding, Analyzing, and Preventing Jailbreaks [[Paper]](https://arxiv.org/abs/2305.14965)
 
 ## Datasets
 
