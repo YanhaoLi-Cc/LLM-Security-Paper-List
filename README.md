@@ -36,6 +36,7 @@
 17. Open Sesame! Universal Black Box Jailbreaking of Large Language Models [[Paper]](https://arxiv.org/abs/2309.01446)
 18. SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks [[Paper]](https://aps.arxiv.org/abs/2310.03684)
 19. Tricking LLMs into Disobedience: Understanding, Analyzing, and Preventing Jailbreaks [[Paper]](https://arxiv.org/abs/2305.14965)
+20. Universal and Transferable Adversarial Attacks on Aligned Language Models [[Paper]](https://arxiv.org/abs/2307.15043) [[Code]](https://github.com/llm-attacks/llm-attacks?tab=readme-ov-file)
 
 ## Datasets
 
