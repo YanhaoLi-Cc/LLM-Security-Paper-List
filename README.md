@@ -1,4 +1,4 @@
-# LLM Security Paper List
+# LLM Safety Paper List
 
 ## Survey
 
